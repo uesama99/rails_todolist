@@ -33,3 +33,7 @@ bower.json
 
 # Ignore pow environment settings
 .powenv
+vendor/bundle
+bundle_bin
+todolist/vendor/bundle
+todolist/bundle_bin
